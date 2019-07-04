@@ -1,0 +1,1 @@
+This respository for practical exercise4.It consists of 6 programs.I use methods and call that method in main class.I use pattern matcher for finding particular word is present in given string.I use compareTo function for sorting the words.
